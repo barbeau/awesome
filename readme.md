@@ -580,6 +580,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
+- [Global Navigation Satellite System (GNSS)](https://github.com/barbeau/awesome-gnss) - Open source GNSS software and resources
 
 
 ## License
